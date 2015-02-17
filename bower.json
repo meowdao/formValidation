@@ -1,5 +1,7 @@
 {
     "name": "formValidation",
+    "ignore": [],
+    "main": "/js/formValidation.min.js",
     "dependencies": {
     }
 }
